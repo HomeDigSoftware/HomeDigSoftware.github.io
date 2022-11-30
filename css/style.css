@@ -462,7 +462,7 @@ ul.btn li:last-child {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .header::after {
-     background: url(../images/Devops_cloud.jpg);
+     background: url(../images/map.jpg);
      content: "";
      position: absolute;
      width: 558px;
